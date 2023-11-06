@@ -74,6 +74,10 @@ function Home() {
         })}
       </Carousel>
 
+      <Container className="text-center py-4">
+      <h2>Produtos Regionais</h2>
+      <p>Descubra a riqueza dos sabores locais com nossa seleção de produtos regionais. Nossos produtos são cuidadosamente selecionados, provenientes das fazendas e produtores locais, refletindo a autenticidade e a tradição da nossa região. Desde frutas frescas a queijos artesanais, pães recém-assados e especiarias únicas, cada item conta uma história e proporciona uma experiência sensorial inigualável.</p>
+    </Container>
 
       <Card bg="dark" text="white">
       <Card.Body>
